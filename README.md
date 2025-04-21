@@ -1,6 +1,9 @@
 # cse124br Teaching Portfolio web resource
 
-## Peer-graded Assignment: Show What You Know: Write and Explain A Program
+## Peer-graded Assignment: Show What You Know: Write and Explain A Program - Module 8 Monkey and Banana
+https://youtu.be/nxCK3bYIPqw
+
+## Peer-graded Assignment: Show What You Know: Write and Explain A Program - Module 7 Draw Octagon
 https://youtu.be/bFfWucApNNY
 
 ## Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
