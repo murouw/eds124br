@@ -1,6 +1,9 @@
 # cse124br Teaching Portfolio web resource
 
-Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
+## Peer-graded Assignment: Show What You Know: Write and Explain A Program
+https://youtu.be/bFfWucApNNY
+
+## Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
 https://youtu.be/UCpS14nwa54
 
 ## Peer-graded Assignment: Show What You Know: Write and Explain A Program 4/13
